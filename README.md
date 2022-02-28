@@ -1,4 +1,4 @@
-<h2 align="center">Hi :wave:, I'm Burak.</h2>
+<h2 align="center">Hi :wave:, I'm Burak</h2>
 <h3>My Personal accounts:</h3>
 <p align="left">
 <a href="https://discord.com/users/470548458072440842" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
