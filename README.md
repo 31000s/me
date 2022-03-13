@@ -6,6 +6,8 @@
 <a href="https://open.spotify.com/user/9tmyd4phnj1ca04ojccpnndu4" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://medium.com/@burakyabgu" target"blank_"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://twitter.com/burakyabguu" target"blank_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href = "mailto:burakyabgu@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:burakyabgu@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=github&logoColor=white"></a>
 
   
 </p>
