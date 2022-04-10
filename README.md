@@ -22,11 +22,14 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
- ## Programs I use:
+## Programs I use:
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 
-    
+ ## Design Tools I Use:
+ <code><a href="https://www.adobe.com/tr/products/photoshop.html?"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
+<code><a href="https://www.adobe.com/tr/products/photoshop.html?"><img height="30" src="https://www.adobe.com/tr/products/indesign.html?"></a></code>
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=burakyabgu&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyabgu&layout=compact&theme=dark&hide_border=true" />
