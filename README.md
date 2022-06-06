@@ -15,7 +15,7 @@
 
 ## Langauges I know:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/8b392ec84f9229dfc01109f07f3f50e5226423eef27cb4ca599df4737f9a072b/68747470733a2f2f616b6966393734382e6d652f6261646765732f637373332e737667"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## Databases I use:
