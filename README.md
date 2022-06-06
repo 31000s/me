@@ -15,8 +15,10 @@
 
 ## Langauges I know:
 
-<code><img height="30" src="https://camo.githubusercontent.com/8b392ec84f9229dfc01109f07f3f50e5226423eef27cb4ca599df4737f9a072b/68747470733a2f2f616b6966393734382e6d652f6261646765732f637373332e737667"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/7bb8a185dec2fc30ca43e4b63cbaba213034b14191e097be7fee58884a5599a8/68747470733a2f2f616b6966393734382e6d652f6261646765732f707974686f6e2e737667"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/bafa2e5e59b4b608031674d733fd0d1bf940c579785b463d113abde6f6e4f3e0/68747470733a2f2f616b6966393734382e6d652f6261646765732f6a736f6e2e737667"></code>
+
 
 ## Databases I use:
 
