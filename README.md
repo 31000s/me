@@ -16,7 +16,7 @@
 ## Langauges I know:
 
 <code><img height="30" src="https://camo.githubusercontent.com/7bb8a185dec2fc30ca43e4b63cbaba213034b14191e097be7fee58884a5599a8/68747470733a2f2f616b6966393734382e6d652f6261646765732f707974686f6e2e737667"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/Java%20-red.svg?&style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/bafa2e5e59b4b608031674d733fd0d1bf940c579785b463d113abde6f6e4f3e0/68747470733a2f2f616b6966393734382e6d652f6261646765732f6a736f6e2e737667"></code>
 
 
@@ -27,7 +27,7 @@
 
 
 ## Programs I use:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code>
 
