@@ -22,14 +22,13 @@
 
 ## Databases I use:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/mysql%20%20-black.svg?&style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/mongodb%20%20-lightgreen.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></code>
 
 
 ## Programs I use:
 <code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/intellij%20idea%20%20-black.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
  ## Design Tools I Use:
  <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
