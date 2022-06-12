@@ -33,6 +33,9 @@
 <code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
 <code><img height="30" src="https://img.shields.io/badge/intellij%20idea%20%20-black.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
+## Other Tools:
+<code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
+
  ## Design Tools I Use:
  <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
 <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/800px-Adobe_InDesign_CC_icon.svg.png"></a></code>
