@@ -20,6 +20,7 @@
 <code><img height="30" src="https://camo.githubusercontent.com/e988dbddd23f51aed1cafbc52871a54b98a997c8d9750623a7f2c1b7d359bcf4/68747470733a2f2f616b6966393734382e6d652f6261646765732f68746d6c352e737667"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/8b392ec84f9229dfc01109f07f3f50e5226423eef27cb4ca599df4737f9a072b/68747470733a2f2f616b6966393734382e6d652f6261646765732f637373332e737667"></code>
 <code><img height="30" src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="30" src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/bafa2e5e59b4b608031674d733fd0d1bf940c579785b463d113abde6f6e4f3e0/68747470733a2f2f616b6966393734382e6d652f6261646765732f6a736f6e2e737667"></code>
 
 
