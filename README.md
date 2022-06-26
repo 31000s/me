@@ -17,20 +17,19 @@
 
 <code><img height="30" src="https://img.shields.io/badge/Java%20-red.svg?&style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/7bb8a185dec2fc30ca43e4b63cbaba213034b14191e097be7fee58884a5599a8/68747470733a2f2f616b6966393734382e6d652f6261646765732f707974686f6e2e737667"></code>
-<code><img height="30" src="https://img.shields.io/badge/django%20-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/e988dbddd23f51aed1cafbc52871a54b98a997c8d9750623a7f2c1b7d359bcf4/68747470733a2f2f616b6966393734382e6d652f6261646765732f68746d6c352e737667"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/8b392ec84f9229dfc01109f07f3f50e5226423eef27cb4ca599df4737f9a072b/68747470733a2f2f616b6966393734382e6d652f6261646765732f637373332e737667"></code>
 <code><img height="30" src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/bafa2e5e59b4b608031674d733fd0d1bf940c579785b463d113abde6f6e4f3e0/68747470733a2f2f616b6966393734382e6d652f6261646765732f6a736f6e2e737667"></code>
 
-
+## Frameworks and libraries I use:
+<code><img height="30" src="https://img.shields.io/badge/django%20-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Bootstrap%20-7D11F8.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 
 ## Databases I use:
-
 <code><img height="30" src="https://img.shields.io/badge/mysql%20%20-black.svg?&style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/mongodb%20%20-lightgreen.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></code>
-
 
 ## Programs I use:
 <code><img height="30" src="https://camo.githubusercontent.com/4fd0df1ee5fa900971e661d2a3cc69588aa1052ff4848a4041fd8db6507a936a/68747470733a2f2f616b6966393734382e6d652f6261646765732f7673632e737667"></code>
@@ -42,7 +41,6 @@
 ## Other Tools:
 <code><img height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
-
 
 ## Design Tools I Use:
  <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
