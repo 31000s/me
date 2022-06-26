@@ -40,7 +40,9 @@
 <code><img height="30" src="https://img.shields.io/badge/glitch%20-684FFF.svg?&style=for-the-badge&logo=glitch&logoColor=white"></code>
 
 ## Other Tools:
+<code><img height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
+
 
 ## Design Tools I Use:
  <code><a href="https://www.adobe.com/tr/products/photoshop.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
