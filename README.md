@@ -11,7 +11,7 @@
   
 </p>
   
-<img src="https://komarev.com/ghpvc/?username=burakyabgu&label=Ziyaretçi%20Sayısı&color=37F613" alt="bvak" />
+<img src="https://komarev.com/ghpvc/?username=31000s&label=Ziyaretçi%20Sayısı&color=37F613" alt="bvak" />
 
 ## Langauges I know:
 
@@ -50,7 +50,7 @@
 <code><a href="https://www.adobe.com/tr/products/illustrator.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=burakyabgu&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyabgu&layout=compact&theme=dark&hide_border=true" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=31000s&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31000s&layout=compact&theme=dark&hide_border=true" />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/470548458072440842)](https://discord.com/users/470548458072440842)
